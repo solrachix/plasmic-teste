@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+  <path style="mix-blend-mode:screen" d="M19.22 0L0 19.792l17.908-17.69A5.294 5.294 0 0019.219 0z" fill="url(#UZjRt-Sy1Zga)"/>
+  <defs>
+    <radialGradient id="UZjRt-Sy1Zga" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(27.8184 0 0 27.5367 16.873 25.017)">
+      <stop stop-color="#FF0"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+</svg>
